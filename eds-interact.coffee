@@ -28,7 +28,10 @@ aromas = [
   "Take me! Take me! Take me!",
   "Can you bring me back one of their sticky buns?",
   "Sounds great! I'll meet you at the downtown location once I learn to walk.",
-  "Wouldn't it suck to spill your coffee on your laptop?"
+  "Wouldn't it suck to spill your coffee on your laptop?",
+  "Benson or Downtown?",
+  "Why doesn't your company get you guys an office to work from?",
+  "You do know that coffee is addictive, right?"
 ]
 
 food = [
@@ -41,7 +44,10 @@ food = [
    "http://s3.amazonaws.com/hubot-images.s3.aws.edatasource.com/food-04.jpg",
    "Doesn't pizza sound good? Yeah, I think pizza sounds mighty tasty.",
    "Lunch is way overrated.",
-   "Let me guess... you're taking your laptop with you?"
+   "Let me guess... you're taking your laptop with you?",
+   "/me is sad that nobody ever invites him to lunch",
+   "/me wonders why nobody ever brings their lunch to work with them",
+   "Does anybody want sushi for lunch?"
 ]
 
 module.exports = (robot) ->

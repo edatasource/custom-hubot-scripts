@@ -30,7 +30,9 @@ messages = [
         "I'm sailing away...http://www.youtube.com/watch?v=JcmOe2geZ4Q",
         "Be careful... last time someone stepped away from their keyboard, they made a movie about them: http://www.youtube.com/watch?v=KCAGb7oSwDs",
         "Oh, that's nice. Can you take a picture of the sun and show it to me? I've never seen the sun.",
-        "Yeah... we know you're going to watch the Big Bang Theory... http://www.youtube.com/watch?v=2qWRng6bR-I&list=RDBuBQy_iu7XQ"
+        "Yeah... we know you're going to watch the Big Bang Theory... http://www.youtube.com/watch?v=2qWRng6bR-I&list=RDBuBQy_iu7XQ",
+        "Get back here right now!",
+	"Nobody move. This is a hold-up!",
 ]
 
 module.exports = (robot) ->
