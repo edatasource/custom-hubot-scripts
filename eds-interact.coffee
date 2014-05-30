@@ -45,8 +45,8 @@ food = [
 ]
 
 module.exports = (robot) ->
-  robot.hear /\\b((aromas)|(starbucks)|(dunkin))\\b/i, (msg) ->
+  robot.hear /\b((aromas)|(starbucks)|(dunkin))\b/i, (msg) ->
     msg.send msg.random aromas
-    
-  robot.hear /\\b((food)|(lunch)|(bite)|(eat))\\b/i, (msg) ->
+
+  robot.hear /\b((food)|(lunch)|(bite)|(eat))\b/i, (msg) ->
     msg.send msg.random food
