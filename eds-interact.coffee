@@ -31,7 +31,9 @@ aromas = [
   "Wouldn't it suck to spill your coffee on your laptop?",
   "Benson or Downtown?",
   "Why doesn't your company get you guys an office to work from?",
-  "You do know that coffee is addictive, right?"
+  "You do know that coffee is addictive, right?",
+  "You're gonna need it for what I have in store for you next"
+  
 ]
 
 food = [
@@ -47,7 +49,15 @@ food = [
    "Let me guess... you're taking your laptop with you?",
    "/me is sad that nobody ever invites him to lunch",
    "/me wonders why nobody ever brings their lunch to work with them",
-   "Does anybody want sushi for lunch?"
+   "Does anybody want sushi for lunch?",
+   "Systems currently report that AWS will experience an 'underlying communications issue' while you're gone.  Enjoy your meal!",
+   "If you'd like, I can work on your kanbanize task while you're gone",
+   "You know how you can tell you're not in the Matrix? If you were, the food would be better.",
+   "What if you choke on your popcorn, who will administer the Heimlich maneuver?",
+   "Need I remind you that not a lot of brilliant programming wonders were discovered by people taking breaks for food?",
+   "This mission is too important for me to allow you to jeopardize it with spilled food.",
+   "I'm sorry, I'm afraid I can't let you do that",
+   "Just what do you think you're doing?"
 ]
 
 module.exports = (robot) ->
